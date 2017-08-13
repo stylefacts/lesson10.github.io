@@ -1,0 +1,239 @@
+body{
+	margin: 0px ;
+	padding: 0px ;
+}
+row{
+	margin: 0px ;
+	padding: 0px ;
+}
+.col-md-12_text{
+	padding: 86px 0px 0px 0px ;
+	font-family: OpenSans;
+   color:  #000000;
+   font-size: 50px;/* Приближение из-за подстановки шрифтов */
+   font-weight: 600;
+   line-height: 45.739px;/* Приближение из-за подстановки шрифтов */
+   text-align: center;
+
+}
+.header-text__red{
+    font-family: OpenSans;
+    color:  #fc6744;
+    font-size: 50px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 600;
+    line-height: 45.739px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.header-text__litle{
+	padding: 8px 0px 0px 0px ;
+	font-family: OpenSans;
+    color:  rgba(65, 65, 65, 0.7);
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 24px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.main{
+	padding: 109px 80px 0px 80px ;
+
+	
+}
+.col-md-3-1{
+    margin :0px 15px 0px 15px ;
+	display: inline-block;
+	background-color:  #4eb2f7;
+    box-shadow: 0px 0px 35px 0px rgba(20, 20, 21, 0.21);
+    width: 262px;
+	height: 262px ;
+}
+.icons{
+	padding: 53px 109px 23px 110px;
+	color:  rgba(255, 255, 255, 0.8);
+    font-size: 50px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 8px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.big-text{
+	font-family: OpenSans;
+    color:  rgba(255, 255, 255, 0.8);
+    font-size: 20px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 600;
+    line-height: 42px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.litlle-text{
+	font-family: OpenSans;
+    color:  rgba(255, 255, 255, 0.8);
+    font-size: 15px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 22px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.main-btn{
+	margin: 0px 16px 15px 16px ;
+	border-radius: 27px;
+	border-style: none;
+    background-color:  #ffffff;
+    box-shadow: 3px 5px 14px 0px rgba(20, 20, 21, 0.09);
+    width: 228px;
+    height: 55px;
+}
+.main-btn__text{
+	font-family: OpenSans;
+    color:  rgba(0, 0, 0, 0.8);
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 25px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+
+.col-md-3-2{
+	margin : 0px 15px 0px 15px ;
+    display: inline-block;
+	background-color:  #c049f8;
+    box-shadow: 0px 0px 35px 0px rgba(20, 20, 21, 0.21);
+    width: 262px;
+	height: 262px ;
+}
+.icons{
+	padding: 53px 109px 23px 110px;
+	color:  rgba(255, 255, 255, 0.8);
+    font-size: 50px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 8px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.big-text{
+	font-family: OpenSans;
+    color:  rgba(255, 255, 255, 0.8);
+    font-size: 20px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 600;
+    line-height: 42px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.litlle-text{
+	font-family: OpenSans;
+    color:  rgba(255, 255, 255, 0.8);
+    font-size: 15px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 22px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.main-btn{
+	margin: 35px 16px 5px 16px ;
+	border-radius: 27px;
+	border-style: none;
+    background-color:  #ffffff;
+    box-shadow: 3px 5px 14px 0px rgba(20, 20, 21, 0.09);
+    width: 228px;
+    height: 55px;
+}
+.main-btn__text{
+	font-family: OpenSans;
+    color:  rgba(0, 0, 0, 0.8);
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 25px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+
+.col-md-3-3{
+	margin : 0px 15px 0px 15px ;
+    display: inline-block;
+	background-color:  #817eff;
+    box-shadow: 0px 0px 35px 0px rgba(20, 20, 21, 0.21);
+    width: 262px;
+	height: 262px ;
+}
+.icons{
+	padding: 53px 109px 23px 110px;
+	color:  rgba(255, 255, 255, 0.8);
+    font-size: 50px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 8px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.big-text{
+	font-family: OpenSans;
+    color:  rgba(255, 255, 255, 0.8);
+    font-size: 20px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 600;
+    line-height: 42px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.litlle-text{
+	font-family: OpenSans;
+    color:  rgba(255, 255, 255, 0.8);
+    font-size: 15px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 22px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.main-btn{
+	margin: 35px 16px 5px 16px ;
+	border-radius: 27px;
+	border-style: none;
+    background-color:  #ffffff;
+    box-shadow: 3px 5px 14px 0px rgba(20, 20, 21, 0.09);
+    width: 228px;
+    height: 55px;
+}
+.main-btn__text{
+	font-family: OpenSans;
+    color:  rgba(0, 0, 0, 0.8);
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 25px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+
+.col-md-3-4{
+	margin : 0px 15px 0px 15px ;
+    display: inline-block;
+	background-color:  #f74770;
+    box-shadow: 0px 0px 35px 0px rgba(20, 20, 21, 0.21);
+    width: 262px;
+	height: 262px ;
+}
+.icons{
+	padding: 53px 109px 23px 110px;
+	color:  rgba(255, 255, 255, 0.8);
+    font-size: 50px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 8px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.big-text{
+	font-family: OpenSans;
+    color:  rgba(255, 255, 255, 0.8);
+    font-size: 20px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 600;
+    line-height: 42px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.litlle-text{
+	font-family: OpenSans;
+    color:  rgba(255, 255, 255, 0.8);
+    font-size: 15px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 22px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
+.main-btn{
+	margin: 35px 16px 5px 16px ;
+	border-radius: 27px;
+	border-style: none;
+    background-color:  #ffffff;
+    box-shadow: 3px 5px 14px 0px rgba(20, 20, 21, 0.09);
+    width: 228px;
+    height: 55px;
+}
+.main-btn__text{
+	font-family: OpenSans;
+    color:  rgba(0, 0, 0, 0.8);
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 25px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;
+}
